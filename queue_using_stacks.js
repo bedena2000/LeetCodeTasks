@@ -1,3 +1,5 @@
+// Link to task - https://leetcode.com/problems/implement-queue-using-stacks/
+
 var MyQueue = function () {
   this.first = {
     value: null,
